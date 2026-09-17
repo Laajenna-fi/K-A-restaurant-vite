@@ -1,0 +1,12 @@
+.brand-logo {
+  display: block;
+  height: auto;
+}
+
+.brand-logo--nav {
+  width: 112px;
+}
+
+.brand-logo--footer {
+  width: 190px;
+}

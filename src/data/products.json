@@ -1,0 +1,587 @@
+[
+  {
+    "slug": "americano-pizza",
+    "category": "pizza",
+    "name": "Americano",
+    "description": "Palvikinkku, aurajuusto, ananas",
+    "price": 13.9,
+    "image": "americano-pizza.png",
+    "popular": true
+  },
+  {
+    "slug": "bbq-chicken-pizza",
+    "category": "pizza",
+    "name": "BBQ Chicken",
+    "description": "Grillattu kana, aurinkokuivattu tomaatti, punasipuli, BBQ-kastike",
+    "price": 14.9,
+    "image": "bbq-chicken-pizza.png",
+    "popular": true
+  },
+  {
+    "slug": "margherita-pizza",
+    "category": "pizza",
+    "name": "Margherita",
+    "description": "Kirsikkatomaatti, rucola",
+    "price": 12.2,
+    "image": "margherita-pizza.png",
+    "popular": true
+  },
+  {
+    "slug": "moussaka",
+    "category": "pizza",
+    "name": "Moussaka",
+    "description": "Munakoiso, feta, jauheliha, oliivi",
+    "price": 14.9,
+    "image": "moussaka.png",
+    "popular": true
+  },
+  {
+    "slug": "maruzella-pizza",
+    "category": "pizza",
+    "name": "Maruzella",
+    "description": "Mozzarella, kirsikkatomaatti, rucola, pestokastike",
+    "price": 13.9,
+    "image": "maruzella-pizza.png",
+    "popular": true
+  },
+  {
+    "slug": "special-opera-1",
+    "category": "pizza",
+    "name": "Special Opera",
+    "description": "Palvikinkku, tonnikala, salami",
+    "price": 13.9,
+    "image": "special-opera-1.png",
+    "popular": true
+  },
+  {
+    "slug": "antipasto-pizza",
+    "category": "pizza",
+    "name": "Antipasto",
+    "description": "Artisokka, aurinkokuivattu tomaatti, herkkusieni, punasipuli, rucola",
+    "price": 14.9,
+    "image": "antipasto-pizza.png",
+    "popular": true
+  },
+  {
+    "slug": "francescana-pizza",
+    "category": "pizza",
+    "name": "Francescana",
+    "description": "Palvikinkku, katkarapu, herkkusieni",
+    "price": 13.9,
+    "image": "francescana-pizza.png",
+    "popular": true
+  },
+  {
+    "slug": "dillinger-pizza",
+    "category": "pizza",
+    "name": "Dillinger",
+    "description": "Salami, palvikinkku, paistettu naudanliha, punasipuli",
+    "price": 14.9,
+    "image": "dillinger-pizza.png",
+    "popular": false
+  },
+  {
+    "slug": "mexicano-pizza",
+    "category": "pizza",
+    "name": "Mexicano",
+    "description": "Pepperoni, punasipuli, jalopeno, ananas, tulinen salsa",
+    "price": 15.9,
+    "image": "mexicano-pizza.png",
+    "popular": false
+  },
+  {
+    "slug": "ka-special-pizza",
+    "category": "pizza",
+    "name": "K&A Special",
+    "description": "Grillattu kana, ananas, rucola, parmesanjuutso",
+    "price": 14.9,
+    "image": "ka-special-pizza.png",
+    "popular": false
+  },
+  {
+    "slug": "papas-pizza",
+    "category": "pizza",
+    "name": "Papa’s",
+    "description": "Salami, tuorepaprika, aurajuusto, punasipuli, oliivi",
+    "price": 14.9,
+    "image": "papas-pizza.png",
+    "popular": false
+  },
+  {
+    "slug": "empire-special-pizza",
+    "category": "pizza",
+    "name": "Empire Special",
+    "description": "Salami, katkarapu, palvikinkku, punasipuli, tuplajusto, valkosipuli",
+    "price": 14.9,
+    "image": "empire-special-pizza.png",
+    "popular": false
+  },
+  {
+    "slug": "bologna-pizza",
+    "category": "pizza",
+    "name": "Bologna",
+    "description": "Paistettua jauhenlihaa",
+    "price": 13.2,
+    "image": "bologna-pizza.png",
+    "popular": false
+  },
+  {
+    "slug": "smetana-pizza",
+    "category": "pizza",
+    "name": "Smetana",
+    "description": "kebabliha, punasipuli, jalopeeno, kirsikkatomaatti, smetana",
+    "price": 14.9,
+    "image": "smetana-pizza.png",
+    "popular": false
+  },
+  {
+    "slug": "pepperoni-pizza",
+    "category": "pizza",
+    "name": "Pepperoni",
+    "description": "Pepperoni, mozzarella, kirsikkatomaatti, pestokastike",
+    "price": 14.9,
+    "image": "pepperoni-pizza.png",
+    "popular": false
+  },
+  {
+    "slug": "white-sabbath-pizza",
+    "category": "pizza",
+    "name": "White Sabbath",
+    "description": "Smetana, juusto, permankinkku, rucola, herkkusieni",
+    "price": 13.9,
+    "image": "white-sabbath-pizza.png",
+    "popular": false
+  },
+  {
+    "slug": "romeo-pizza",
+    "category": "pizza",
+    "name": "Romeo",
+    "description": "Salami, ananas, katkarapu, aurajuusto",
+    "price": 14.9,
+    "image": "romeo-pizza.png",
+    "popular": false
+  },
+  {
+    "slug": "salmon-pizza",
+    "category": "pizza",
+    "name": "Salmon",
+    "description": "Kylmäsavustettu lohi, punasipuli, aurinkokuivattu tomaatti, smetana, rucola",
+    "price": 15.9,
+    "image": "salmon-pizza.png",
+    "popular": false
+  },
+  {
+    "slug": "seafood-pizza",
+    "category": "pizza",
+    "name": "Seafood",
+    "description": "Tonnikala, simpukka, katkarapu",
+    "price": 13.9,
+    "image": "seafood-pizza.png",
+    "popular": false
+  },
+  {
+    "slug": "super-pizza",
+    "category": "pizza",
+    "name": "Super",
+    "description": "Salami, palvikinkku, pekoni, kananmuna",
+    "price": 14.9,
+    "image": "super-pizza.png",
+    "popular": false
+  },
+  {
+    "slug": "zucchini-rocks-pizza",
+    "category": "pizza",
+    "name": "Zucchini Rocks",
+    "description": "Kirsikkatomaatti, kesäkurpitsa, ricotta, punasipuli",
+    "price": 14.9,
+    "image": "zucchini-rocks-pizza.png",
+    "popular": false
+  },
+  {
+    "slug": "vegetarian-pizza",
+    "category": "pizza",
+    "name": "Vegetarian",
+    "description": "Herkkusieni, kirsikkatomaatti, paprika, punasipuli, oliivi",
+    "price": 14.9,
+    "image": "vegetarian-pizza.png",
+    "popular": false
+  },
+  {
+    "slug": "vegaani-pizza",
+    "category": "pizza",
+    "name": "Vegaani",
+    "description": "Tomaattikastike, vegaanijuusto, paprika, herkkusieni, kirsikkatomaatti, kapris",
+    "price": 14.9,
+    "image": "vegaani-pizza.png",
+    "popular": false
+  },
+  {
+    "slug": "feta-k-zone",
+    "category": "kzone",
+    "name": "Feta K-Zone",
+    "description": "Feta, punasipuli, kirsikkatomaatti, paprika, salaatti, valkosipuli tai chilimajoneesikastike",
+    "price": 15.5,
+    "image": "feta-k-zone.png",
+    "popular": false
+  },
+  {
+    "slug": "kana-k-zone",
+    "category": "kzone",
+    "name": "Kana K-Zone",
+    "description": "Kana, tuorepaprika, kirsikkatomaatti, punasipuli, salaatti, valkosipuli tai chilimajoneesi",
+    "price": 15.5,
+    "image": "kana-k-zone.png",
+    "popular": false
+  },
+  {
+    "slug": "jauheliha-k-zone",
+    "category": "kzone",
+    "name": "Jauheliha K-Zone",
+    "description": "Jauheliha, punasipuli, kirsikkatomaatti, jalopeeno, salaatti, valkosipuli tai chilimajoneesikastike",
+    "price": 15.5,
+    "image": "jauheliha-k-zone.png",
+    "popular": false
+  },
+  {
+    "slug": "kebab-k-zone",
+    "category": "kzone",
+    "name": "Kebab K-Zone",
+    "description": "Kebab, punasipuli, kirsikkatomaatti, jalopeeno, salaatti, valkosipuli tai chilimajoneesikastike",
+    "price": 15.5,
+    "image": "kebab-k-zone.png",
+    "popular": false
+  },
+  {
+    "slug": "kebab-ranskalaisilla",
+    "category": "kebab",
+    "name": "Kebab Ranskalaisilla",
+    "description": "Kebab ranskalaisilla",
+    "price": 13.5,
+    "image": "kebab-ranskalaisilla.png",
+    "popular": false
+  },
+  {
+    "slug": "kebab-rulla",
+    "category": "kebab",
+    "name": "Kebab Rulla",
+    "description": "Kebab rullassa",
+    "price": 13.5,
+    "image": "kebab-rulla.png",
+    "popular": false
+  },
+  {
+    "slug": "pitakebab",
+    "category": "kebab",
+    "name": "Pitakebab",
+    "description": "Herkullinen pitakebab",
+    "price": 11.9,
+    "image": "pitakebab.png",
+    "popular": false
+  },
+  {
+    "slug": "kanakebab-ranskalaisilla",
+    "category": "kebab",
+    "name": "Kanakebab Ranskalaisilla",
+    "description": "Kanakebab ranskalaisilla",
+    "price": 13.5,
+    "image": "kanakebab-ranskalaisilla.png",
+    "popular": false
+  },
+  {
+    "slug": "iskender-kebab",
+    "category": "kebab",
+    "name": "Iskender Kebab",
+    "description": "Iskender Kebab",
+    "price": 13.5,
+    "image": "iskender-kebab.png",
+    "popular": false
+  },
+  {
+    "slug": "kanakebab-rulla",
+    "category": "kebab",
+    "name": "Kanakebab Rulla",
+    "description": "Kana-Kebab annoksiin kuuluu kanakebabinliha, currykastike, salaatti, punasipuli, kurkku, kirsikkatomaatti, vihreä chili, majoneesikastike",
+    "price": 13.5,
+    "image": "kanakebab-rulla.png",
+    "popular": false
+  },
+  {
+    "slug": "kanakebab-pita",
+    "category": "kebab",
+    "name": "Kanakebab Pita",
+    "description": "Kanakebab pitaleivässä",
+    "price": 11.9,
+    "image": "kanakebab-pita.png",
+    "popular": false
+  },
+  {
+    "slug": "kebab-riisi",
+    "category": "kebab",
+    "name": "Kebab Riisi",
+    "description": "Kebab riisillä",
+    "price": 13.5,
+    "image": "kebab-riisi.png",
+    "popular": false
+  },
+  {
+    "slug": "kebab-salaatti",
+    "category": "kebab",
+    "name": "Kebab Salaatti",
+    "description": "Kebab salaatilla",
+    "price": 13.5,
+    "image": "kebab-salaatti.png",
+    "popular": false
+  },
+  {
+    "slug": "kanakebab-salaatilla",
+    "category": "kebab",
+    "name": "Kanakebab Salaatilla",
+    "description": "Kanakebab salaatilla",
+    "price": 13.5,
+    "image": "kanakebab-salaatilla.png",
+    "popular": false
+  },
+  {
+    "slug": "kanakebab-riisilla",
+    "category": "kebab",
+    "name": "Kanakebab Riisillä",
+    "description": "Kanakebab riisillä",
+    "price": 13.5,
+    "image": "kanakebab-riisilla.png",
+    "popular": false
+  },
+  {
+    "slug": "kanasalaatti",
+    "category": "salad",
+    "name": "Kanasalaatti",
+    "description": "Uunissa grillattu kanan sisäfileet",
+    "price": 13.5,
+    "image": "kanasalaatti.png",
+    "popular": false
+  },
+  {
+    "slug": "lohisalaatti",
+    "category": "salad",
+    "name": "Lohisalaatti",
+    "description": "Kylmäsavustettu lohi ja aurinkokuivattu tomaatit",
+    "price": 15.5,
+    "image": "lohisalaatti.png",
+    "popular": false
+  },
+  {
+    "slug": "feta-salaatti",
+    "category": "salad",
+    "name": "Feta Salaatti",
+    "description": "Fetakuutioita ja kalamataoliivi",
+    "price": 13.5,
+    "image": "feta-salaatti.png",
+    "popular": false
+  },
+  {
+    "slug": "merisalaatti",
+    "category": "salad",
+    "name": "Merisalaatti",
+    "description": "Tonnikala ja katkarapu",
+    "price": 13.5,
+    "image": "merisalaatti.png",
+    "popular": false
+  },
+  {
+    "slug": "bolognese-1",
+    "category": "pasta",
+    "name": "Bolognese",
+    "description": "Tomaattikastike, parmesan, jauheliha",
+    "price": 13.9,
+    "image": "bolognese-1.png",
+    "popular": false
+  },
+  {
+    "slug": "arrabbiata",
+    "category": "pasta",
+    "name": "Arrabbiata",
+    "description": "Tomaattikastike, valkosipuli, chili, parmesan, rucola",
+    "price": 12.5,
+    "image": "arrabbiata.png",
+    "popular": false
+  },
+  {
+    "slug": "di-savoca",
+    "category": "pasta",
+    "name": "Di Savoca",
+    "description": "Kermakastike, herkkusieni, kinkku, aurajuusto, parmesan",
+    "price": 13.9,
+    "image": "di-savoca.png",
+    "popular": false
+  },
+  {
+    "slug": "pescatora",
+    "category": "pasta",
+    "name": "Pescatora",
+    "description": "Tomaattikastike, sinisimpukka, mustekala, katkarapu, chili, valkosipuli, parmesan",
+    "price": 15.9,
+    "image": "pescatora.png",
+    "popular": false
+  },
+  {
+    "slug": "palermo",
+    "category": "pasta",
+    "name": "Palermo",
+    "description": "Tomaattikastike/kerma, pinaatti, feta, chili, parmesan",
+    "price": 13.9,
+    "image": "palermo.png",
+    "popular": false
+  },
+  {
+    "slug": "dupasturi",
+    "category": "pasta",
+    "name": "Dupasturi",
+    "description": "Tomaattikastike, kana, oliivi, kapris, sipuli, parmesan",
+    "price": 14.9,
+    "image": "dupasturi.png",
+    "popular": false
+  },
+  {
+    "slug": "pollo",
+    "category": "pasta",
+    "name": "Pollo",
+    "description": "Kanaa kermaisessa pestokastikkeessa. Päällä on paistettua vuohenjuustoa",
+    "price": 14.9,
+    "image": "pollo.png",
+    "popular": false
+  },
+  {
+    "slug": "melanzane",
+    "category": "pasta",
+    "name": "Melanzane",
+    "description": "Munakoiso, salottisipulia ja tomaattikastiketta",
+    "price": 13.5,
+    "image": "melanzane.png",
+    "popular": false
+  },
+  {
+    "slug": "carbonara",
+    "category": "pasta",
+    "name": "Carbonara",
+    "description": "Kerma, pekoni, kananmuna, parmesan",
+    "price": 12.9,
+    "image": "carbonara.png",
+    "popular": false
+  },
+  {
+    "slug": "salsiccia-e-funghi",
+    "category": "pasta",
+    "name": "Salsiccia E Funghi",
+    "description": "Tomaattikastike, herkkusieni, pepperonimakkara, aurajuusto",
+    "price": 14.9,
+    "image": "salsiccia-e-funghi.png",
+    "popular": false
+  },
+  {
+    "slug": "kasvis",
+    "category": "pasta",
+    "name": "Kasvis",
+    "description": "Tomaattikastike, herkkusieni, paprika, oliivi, sipuli",
+    "price": 14.5,
+    "image": "kasvis.png",
+    "popular": false
+  },
+  {
+    "slug": "bolognese",
+    "category": "uunipasta",
+    "name": "Bolognese - Uunipasta",
+    "description": "Jauheliha, juusto, kerma, tomaattikastike",
+    "price": 13.9,
+    "image": "bolognese.png",
+    "popular": false
+  },
+  {
+    "slug": "americano-1",
+    "category": "uunipasta",
+    "name": "Americano - Uunipasta",
+    "description": "Kinkku, ananas, aurajuusto, juusto, kerma, tomaattikastike",
+    "price": 13.9,
+    "image": "americano-1.png",
+    "popular": false
+  },
+  {
+    "slug": "ayriaispasta",
+    "category": "uunipasta",
+    "name": "Äyriäispasta",
+    "description": "Simpukka, katkarapu, tonnikala, kerma, tomaattikastike, juusto",
+    "price": 14.9,
+    "image": "ayriaispasta.png",
+    "popular": false
+  },
+  {
+    "slug": "coca-cola-1-5",
+    "category": "drinks",
+    "name": "Coca-Cola 1,5L",
+    "description": "Raikas Coca-Cola virvoitusjuoma",
+    "price": 6.5,
+    "image": "coca-cola-1-5.png",
+    "popular": false
+  },
+  {
+    "slug": "coca-cola",
+    "category": "drinks",
+    "name": "Coca-Cola 0,33L",
+    "description": "Raikas Coca-Cola virvoitusjuoma",
+    "price": 3.0,
+    "image": "coca-cola.png",
+    "popular": false
+  },
+  {
+    "slug": "coca-cola-zero",
+    "category": "drinks",
+    "name": "Coca-Cola Zero 0,33L",
+    "description": "Raikas Coca-Cola Zero virvoitusjuoma",
+    "price": 3.0,
+    "image": "coca-cola-zero.png",
+    "popular": false
+  },
+  {
+    "slug": "mehu",
+    "category": "drinks",
+    "name": "Mehu",
+    "description": "Raikas mehu",
+    "price": 2.0,
+    "image": "mehu.png",
+    "popular": false
+  },
+  {
+    "slug": "maito-1l",
+    "category": "drinks",
+    "name": "Maito laktoositon 1L",
+    "description": "Maito 1 litra",
+    "price": 3.0,
+    "image": "maito-1l.webp",
+    "popular": false
+  },
+  {
+    "slug": "fanta",
+    "category": "drinks",
+    "name": "Fanta 0,33L",
+    "description": "Raikas Fanta virvoitusjuoma",
+    "price": 3.0,
+    "image": "fanta.png",
+    "popular": false
+  },
+  {
+    "slug": "sprite",
+    "category": "drinks",
+    "name": "Sprite 0,33L",
+    "description": "Raikas Sprite virvoitusjuoma",
+    "price": 3.0,
+    "image": "sprite.png",
+    "popular": false
+  },
+  {
+    "slug": "kahvi-tai-tee",
+    "category": "drinks",
+    "name": "Kahvi tai Tee",
+    "description": "Tuore kahvi tai tee",
+    "price": 3.0,
+    "image": "kahvi-tai-tee.png",
+    "popular": false
+  }
+]
