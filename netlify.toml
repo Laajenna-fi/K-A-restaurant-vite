@@ -2,11 +2,11 @@
   command = "npm run build"
   publish = "dist"
 
-[build.environment]
-  NODE_VERSION = "22"
+[dev]
+  command = "npm run dev"
+  targetPort = 3000
 
-# Client-side routing: serve the SPA shell for any path that isn't a real file,
-# so deep links like /menu, /about and /terms reach React Router.
+# Client-side routing: let React Router handle every path.
 [[redirects]]
   from = "/*"
   to = "/index.html"
