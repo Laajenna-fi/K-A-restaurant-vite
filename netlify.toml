@@ -1,0 +1,13 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[dev]
+  command = "npm run dev"
+  targetPort = 3000
+
+# Client-side routing: let React Router handle every path.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
